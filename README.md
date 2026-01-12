@@ -1,4 +1,4 @@
-<img width="640" height="320" alt="StoreKit" src="https://github.com/user-attachments/assets/56d1bcd8-b8e8-4239-b3bf-016bc6c26b81" />
+<img width="5120" height="2560" alt="StoreKit" src="https://github.com/user-attachments/assets/ad994234-52a6-4bf4-83ec-5cb528421465" />
 
 ```md
 # 📱 StoreKitDemo
